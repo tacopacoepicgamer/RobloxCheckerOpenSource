@@ -5,9 +5,6 @@ npm install request
 
 lol gl 
 
-// U WILL USE IT HERE
-
-
 // THING YOU WANT TO DO LIST checkprofile countfollowers countfriends
 
 /*
